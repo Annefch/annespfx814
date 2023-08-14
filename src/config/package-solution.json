@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reactspfx-814-client-side-solution",
+    "id": "d7360707-61b5-4864-b962-411c1d306bf6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "reactspfx814 description"
+      },
+      "longDescription": {
+        "default": "reactspfx814 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "reactspfx-814 Feature",
+        "description": "The feature that activates elements of the reactspfx-814 solution.",
+        "id": "8c6b4d91-d9b3-4da0-9b8e-2583ef8a8822",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/reactspfx-814.sppkg"
+  }
+}
